@@ -1,4 +1,4 @@
-##6.824 2016 Lecture 2: 基础设施: RPC和多线程
+##6.824 2016 Lecture 2: 基础设施: RPC和多线程   
 
 [原文地址](https://pdos.csail.mit.edu/6.824/notes/l-rpc.txt)
 
